@@ -1,0 +1,25 @@
+{
+  "mahasiswa": [
+    {
+      "nim": 192102014,
+      "nama" : "Miftahul Tegar Pangestu",
+      "prodi": "S-1 Informatika",
+      "gender": "L",
+      "angkatan": 2019
+    }
+  ],
+  "nilai_matkul": [
+    {
+      "id": 192102014,
+      "kode": "CE2022",
+      "nilai": "A"
+    }
+  ],
+  "matakuliah": [
+    {
+        "id": "CE2022",
+        "nama":"Pengembangan Aplikasi Mobile",
+        "sks": 4
+    }
+  ]
+}
